@@ -23,5 +23,5 @@ Designed event flyers, airport signage, and social graphics using Canva and Illu
 Vice President of CAB, RA, Mentor, and Admissions Intern. Led campus events and social strategy.
 
 ---
-📫 Contact: [LinkedIn](https://linkedin.com/in/yourname) | molenopesoluwa@gmail.com)
+📫 Contact: [LinkedIn](linkedin.com/in/temidayoadeyemo/) | [Email](molenopesoluwa@gmail.com)
 # Temid4.github.io
