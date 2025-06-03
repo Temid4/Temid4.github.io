@@ -62,7 +62,7 @@ Designed branded social graphics, event flyers, and airport signage for HBCU Eli
 ## 📄 Resume & Contact
 
 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/temidayoadeyemo/) | [Email](mailto:molenopesoluwa@gmail.com)  
-📄 [Download My Resume](files/Temi_Adeyemo_Resume.pdf)
+📄 [Download My Resume](Files/Temi_Adeyemo_Resume.pdf)
 
 ---
 
