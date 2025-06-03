@@ -10,7 +10,7 @@ Hi, I’m Temidayo “Temi” Adeyemo — a creative technologist and recent Com
 A fully functional e-commerce website built with Node.js, MongoDB, and Firebase Auth. Focused on elegant design and seamless shopping.  
 🔗 [View Live Project](https://link-to-your-project.com) | [GitHub Repo](https://github.com/ClarkAtlantaUni/nodejsappspace-Temid4/tree/109c33f8baa9d066088b373cbe964df6814b4406/Final%20Project/BownSugar)
 
-![Brown Sugar Screenshot](images/BrownSugarHair/)
+![Brown Sugar Screenshot](images/BrownSugarHair/HomePage.png)
 
 ---
 
