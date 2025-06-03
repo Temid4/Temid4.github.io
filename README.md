@@ -5,6 +5,7 @@
 ### Brown Sugar Beauty
 E-commerce website using Node.js, MongoDB, and Firebase Auth.  
 🔗 [View Project](https://link-to-your-project.com)
+![Brown Sugar Screenshots](images/BrownSugarHair/)
 
 ### Skincare Tracker App
 FlutterFlow app that tracks routines and offers AI skin analysis.  
