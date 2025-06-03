@@ -28,6 +28,18 @@ Designed branded social graphics, event flyers, and airport signage for HBCU Eli
 🖌️ Tools: Canva, Adobe Illustrator, Instagram, Dropbox  
 
 📸 Sample Designs:
+<p align="center">
+  <a href="images/HBCUElite/elite-hoopher-25-coaches/1.png">
+    <img src="images/HBCUElite/elite-hoopher-25-coaches/1.png" width="200">
+  </a>
+  <a href="images/HBCUElite/elite-hoopher-25-coaches/5.png">
+    <img src="images/HBCUElite/elite-hoopher-25-coaches/5.png" width="200">
+  </a>
+  <a href="images/HBCUElite/elite-hoopher-25-session-leaders/4.png">
+    <img src="images/HBCUElite/elite-hoopher-25-session-leaders/4.png" width="200">
+  </a>
+</p>
+
 
 [![Flyer 1](images/HBCUElite/elite-hoopher-25-coaches/1.png)](images/HBCUElite/elite-hoopher-25-coaches/1.png)
 [![Flyer 2](images/HBCUElite/elite-hoopher-25-coaches/5.png)](images/HBCUElite/elite-hoopher-25-coaches/5.png)
