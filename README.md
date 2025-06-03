@@ -1,4 +1,6 @@
-# 👋🏾 Temi’s Portfolio
+
+
+# 👋🏾 Temidayo’s Portfolio
 
 Hi, I’m Temidayo “Temi” Adeyemo — a creative technologist and recent Computer Science graduate from Clark Atlanta University. I blend tech, design, and community leadership to build meaningful digital experiences. From launching full-stack apps to designing flyers for national events, I lead with purpose and heart.
 
