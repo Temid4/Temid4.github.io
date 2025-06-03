@@ -45,7 +45,6 @@ Designed branded social graphics, event flyers, and airport signage for HBCU Eli
 - **Frameworks & Tools:** Node.js, Express, FlutterFlow, Firebase  
 - **Cloud Platforms:** Google Cloud, GitHub  
 - **Design:** Canva, Illustrator, Figma, Photoshop  
-- **Marketing & Ops:** Notion, Slack, Google Workspace, Mailchimp  
 
 ---
 
