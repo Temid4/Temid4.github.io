@@ -26,7 +26,14 @@ Mobile app developed in FlutterFlow that tracks skincare routines and offers AI-
 ### **HBCU Elite Flyer Designs**
 Designed branded social graphics, event flyers, and airport signage for HBCU Elite Hooper Camp under tight deadlines using Canva and Illustrator.  
 🖌️ Tools: Canva, Adobe Illustrator, Instagram, Dropbox  
-📸 [View Designs](https://github.com/Temid4/Temid4.github.io/tree/f8b10b69336cdb351208927492e1216489635331/images/HBCUElite)
+
+📸 Sample Designs:
+
+[![Flyer 1](images/HBCUElite/elite-hoopher-25-coaches/1.png)](images/HBCUElite/elite-hoopher-25-coaches/1.png)
+[![Flyer 2](images/HBCUElite/elite-hoopher-25-coaches/5.png)](images/HBCUElite/elite-hoopher-25-coaches/5.png)
+[![Flyer 3](images/HBCUElite/elite-hoopher-25-session-leaders/4.png)](images/HBCUElite/elite-hoopher-25-session-leaders/4.png)
+
+🔗 [Browse More Designs](https://github.com/Temid4/Temid4.github.io/tree/main/images/HBCUElite)
 
 ---
 
